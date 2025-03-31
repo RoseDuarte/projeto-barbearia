@@ -19,9 +19,9 @@ O projeto apresenta um site para uma barbearia, com seções que incluem informa
 
 ## 🎯 Funcionalidades
 
-✅ Layout responsivo para diferentes dispositivos
-✅ Animações utilizando AOS.js
-✅ Sistema de agendamento via WhatsApp
-✅ Integração com Google Maps para localização
-✅ Links para redes sociais
+- ✅ Layout responsivo para diferentes dispositivos
+- ✅ Animações utilizando AOS.js
+- ✅ Sistema de agendamento via WhatsApp
+- ✅ Integração com Google Maps para localização
+- ✅ Links para redes sociais
 
